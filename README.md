@@ -1,6 +1,6 @@
 # NeuroVision AI
 
-**Federated Learning + Explainable AI for Privacy-Preserving Brain Tumor Diagnosis using MRI Images**
+Federated Learning + Explainable AI for Privacy-Preserving Brain Tumor Diagnosis using MRI Images
 
 This is a complete, runnable recreation of the system described in the paper  
 *“NeuroVision AI: Federated Learning and Explainable AI for Privacy-Preserving Brain Tumor Diagnosis Using MRI Images”*.
